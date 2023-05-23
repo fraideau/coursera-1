@@ -1,4 +1,4 @@
-name: Python application test with Github actions (coursera training)
+name: Python application test with Github actions (AWS)
 on: [push]
 jobs:
   build:
